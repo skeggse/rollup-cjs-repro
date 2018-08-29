@@ -3,7 +3,7 @@ rollup-cjs-repro
 
 ### Overview
 
-See bug report.
+See [bug report](https://github.com/rollup/rollup-plugin-commonjs/issues/341).
 
 #### Steps to reproduce
 
